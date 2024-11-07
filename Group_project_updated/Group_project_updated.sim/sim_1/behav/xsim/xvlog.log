@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/DELL/Group_Project/Group_Project.srcs/sources_1/new/door_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module door_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/DELL/Group_Project/Group_Project.srcs/sim_1/new/group_project_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_door_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/DELL/Group_Project/Group_Project.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
